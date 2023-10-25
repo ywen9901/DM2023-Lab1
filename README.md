@@ -1,7 +1,7 @@
 # DM2023-Lab1-Master
 ISA5810 Lab1 Notebook
 
-:bangbang: The ipynb located in /Homework with the sentimental labeled sentence dataset
+:bangbang: The homework ipynb located in /Homework with the sentimental labeled sentence dataset
 
 1. Create venv
 ```
